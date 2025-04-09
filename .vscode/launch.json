@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/snehalprakashchaudhari/Downloads/Study/Projects/Bank Application/OldCode/Bank Application (April 2020)",
+      "program": "/Users/snehalprakashchaudhari/Downloads/Study/Projects/Bank Application/OldCode/Bank Application (April 2020)/build/Debug/outDebug"
+    }
+  ]
+}
